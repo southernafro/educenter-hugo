@@ -25,7 +25,7 @@ There are about more than two million children currently learning at home. Resea
 
 ### Educational Freedom
 
-It’s a “your child, your plan” situation. Most homeschooled students have the choice to study and learn what they want, when they want, for as long as you want. If there is ever a course topic that you do not agree with, your child should learn homeschooling helps you be in control of your kids curriculum.
+It’s a “your child, your plan” situation. Most homeschooled students have the choice to study and learn what they want, when they want, for as long as you want. If there is ever a course topic that you do not agree with, your child should learn homeschooling helps you be in control of your kid's curriculum.
 
 With homeschooling, you are free to develop a curriculum that does not conflict with the views of you and your family. Homeschooling also escapes the confines of the common core curriculum.
 
@@ -35,9 +35,13 @@ Homeschooling provides a sense of freedom in the sense that your lives no longer
 
 ### Emotional freedom
 
-When it comes to emotional freedom, homeschooling children tend to avoid things like peer pressure, competition, boredom, and bullying, which fill up the typical school days. These unavoidable occurrences when taken into consideration can be a particular problem, especially for girls. Research as shown, self-esteem plummets in middle-school girls.
+When it comes to emotional freedom, homeschooling children tend to avoid things like peer pressure, competition, boredom, and bullying, which fill up the typical school days. 
 
-However, similar studies of homeschooled girls have shown that self-esteem remains intact and that these girls continue to thrive. Homeschooled kids can dress and act and think the way they want without the fear of being ridiculed or a need to "fit in". They live in the real world, where lives are not dictated by adolescent trends and dangerous experiments.
+These unavoidable occurrences when taken into consideration can be a particular problem, especially for girls. Research as shown, self-esteem plummets in middle-school girls.
+
+However, similar studies of homeschooled girls have shown that self-esteem remains intact and that these girls continue to thrive. 
+
+Homeschooled kids can dress and act and think the way they want without the fear of being ridiculed or a need to "fit in". They live in the real world, where lives are not dictated by adolescent trends and dangerous experiments.
 
 ### Religious freedom
 
