@@ -1,5 +1,5 @@
 ---
-title: Elegant Light Box Paper Cut Dioramas
+title: Homeschooling Pros and Cons
 date: 2019-07-06T15:27:17.000+06:00
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -15,16 +15,102 @@ tags:
 type: post
 
 ---
-### The standard Lorem Ipsum passage, used since the 1500s
+Are you considering homeschooling? In this article, you will find out the pros and cons of homeschooling.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Homeschooling is becoming more popular every day, with a growth rate of 7 to 15 percent per year and these are statistics before this recent pandemic that fell on the world.
 
+There are about more than two million children currently learning at home. Research shows that homeschooled kids do well on standardized tests, are welcome at colleges and universities, and as adults, have a reputation for being self-directed learners and reliable employees.
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+## The Pros
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+### Educational Freedom
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+It’s a “your child, your plan” situation. Most homeschooled students have the choice to study and learn what they want, when they want, for as long as you want. If there is ever a course topic that you do not agree with, your child should learn homeschooling helps you be in control of your kids curriculum.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+With homeschooling, you are free to develop a curriculum that does not conflict with the views of you and your family. Homeschooling also escapes the confines of the common core curriculum.
+
+### Physical Freedom
+
+Homeschooling provides a sense of freedom in the sense that your lives no longer revolve around school calendars, school hours and timetables, you are free to live your lives according to what works for you, like planning off-season vacations, visiting certain places during the week.
+
+### Emotional freedom
+
+When it comes to emotional freedom, homeschooling children tend to avoid things like peer pressure, competition, boredom, and bullying, which fill up the typical school days. These unavoidable occurrences when taken into consideration can be a particular problem, especially for girls. Research as shown, self-esteem plummets in middle-school girls.
+
+However, similar studies of homeschooled girls have shown that self-esteem remains intact and that these girls continue to thrive. Homeschooled kids can dress and act and think the way they want without the fear of being ridiculed or a need to "fit in". They live in the real world, where lives are not dictated by adolescent trends and dangerous experiments.
+
+### Religious freedom
+
+Many families feel their religious and spiritual beliefs are an important part of who they are. Homeschooling provides the opportunity for parents to incorporate their beliefs into their daily lives.
+
+### Stability During Difficult Times
+
+Whether there's a new baby, an illness, a death in the family, or another obstacle or transition, homeschooling helps families cope during challenging periods.
+
+One of the greatest benefits of homeschooling is the flexibility to customize your child’s education based on a particular instructional philosophy, your child’s specific needs, and even the way you envision an ideal learning environment. These customizations often translate into specific “styles” of homeschooling such as:
+
+* Traditional Homeschooling
+* Roadschooling
+* Worldschooling
+* Unschooling
+* Eclectic Homeschooling
+* Classical Homeschooling
+* Montessori Homeschooling
+* Homeschooling with Unit Studies
+* Charlotte Mason Homeschooling
+* Waldorf Homeschooling
+
+## The Cons
+
+* You have to plan school-time and activities and handle the administrative work of being a teacher.
+* Less time each day for yourself.
+* Potential for more stress and fatigue by taking on parenting and teacher responsibilities.
+* Homeschooling Fact More money dedicated to education in homeschooling.
+* Dedicating time to homeschooling can mean a loss of income or reduced time working.
+* Need to tighten your family’s spending.
+* Homeschooling Fact: Team sports options change for homeschoolers.
+* Most school districts do not allow homeschoolers to participate in public school sports teams.
+* A different path for your child’s socialization.
+* Some kids who were homeschooled recall having a smaller circle of friends.
+* Less daily interaction with large groups of kids within the same age group.
+* Possibly fewer resources such as technology that may be available in a public school.
+* Parents must teach a broad range of subjects. Greater freedom and flexibility requires more time and responsibility from the parent.
+* Potentially less structure when compared to public school.
+
+As you can see homeschooling is a coin with two sides. It depends on which side you decide to play with more. After taking note of the regular pros and cons associated with homeschooling, I think it’s best we also look at the tips of homeschooling that are there as well.
+
+## Tips on Homeschooling
+
+Choosing among alternative homeschooling methods requires first that you consider the many aspects of home education. Perhaps take a bit of an “inventory” of your educational goals to help you make an informed decision on your approach. Below are some of the considerations to ponder.
+
+### Personal Values
+
+Do you want your homeschool style to help you instill a specific value system for your children?
+
+Do you prefer to leave value systems out of your specific homeschool approach?
+
+### Educational Philosophy
+
+Do you ascribe to a specific educational philosophy that would affect how you approach your child’s education? Are you neutral in terms of educational philosophies and prefer to focus on other aspects of education?
+
+### Homeschool Duration
+
+Do you know how long you plan to homeschool and whether your child will be returning to the classroom at some point? Is your homeschool duration open-ended?
+
+### Educational Goals
+
+Do you have specific personal, family, or educational goals that you want your child(ren) to accomplish while homeschooling? Will you be taking each homeschool year as you come to it, rather than having overarching goals?
+
+### Family Circumstances
+
+Are there personal, financial, or medical circumstances that could affect how you homeschool? Do you prefer to homeschool irrespective of family circumstances?
+
+### Flexibility
+
+Do you prefer to follow a single homeschool style that will define everything you do in your home education model? Are you comfortable mixing and matching homeschool approaches to create whatever blend of homeschool style best fits your individual children.
+
+## Conclusion
+
+Homeschooling is a very reasonable method, especially if you want to equip your child with certain skills without them having to go through so many trials and tribulations that come with basic schooling.
+
+Even though the end results are pleasing or done well, you should be aware of the fact that your kids will probably require much of your attention. You as a parent should be ready and prepared for that journey. Mostly because your child depends on your responsibility and maturity.
