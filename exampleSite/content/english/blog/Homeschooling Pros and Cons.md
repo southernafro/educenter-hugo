@@ -1,17 +1,14 @@
 ---
 title: Homeschooling Pros and Cons
-date: 2019-07-06T15:27:17.000+06:00
+date: 2020-07-27T09:25:00+00:00
 bg_image: images/backgrounds/page-title.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
-  nostrud.
-image: images/blog/post-1.jpg
-author: John Doe
-categories:
-- Automation System
-tags:
-- Advice
-- Automation
+description: Homeschooling is becoming more popular every day, with a growth rate
+  of 7 to 15 percent per year and these are statistics before this recent pandemic
+  that fell on the world.
+image: "/images/kids-5017863_640.jpg"
+author: Cuthbert P
+categories: []
+tags: []
 type: post
 
 ---
