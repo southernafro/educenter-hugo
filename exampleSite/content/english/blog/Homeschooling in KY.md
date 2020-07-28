@@ -8,11 +8,8 @@ description: Homeschooling in Kentucky is quite a simple method and approach to 
   requirements as well.
 image: "/images/kids-1093758_640.jpg"
 author: Cuthbert P
-categories:
-- English Learning
-tags:
-- Advice
-- English
+categories: []
+tags: []
 type: post
 
 ---
