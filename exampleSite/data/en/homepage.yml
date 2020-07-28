@@ -126,7 +126,7 @@ funfacts:
 
     # funfact item loop
     - name : "COURSES"
-      count : "50"
+      count : "30"
 
     # funfact item loop
     - name : "STUDENTS"
