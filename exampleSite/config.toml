@@ -57,10 +57,9 @@ name = "Contact"
 weight = 5
 [params]
 address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+author = "HomeSchoolers Hub"
 contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+description = "This is an information and resource hub for homeschoolers"
 google_analitycs_id = ""
 logo = "images/logo.png"
 top_header = true
