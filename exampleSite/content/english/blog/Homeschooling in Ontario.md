@@ -1,12 +1,12 @@
 ---
-title: Elegant Light Box Paper Cut Dioramas
-date: 2019-07-06T15:27:17.000+06:00
+title: Homeschooling in Ontario
+date: 2020-07-28T09:27:17+00:00
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
   nostrud.
-image: images/blog/post-2.jpg
-author: John Doe
+image: "/images/buildings-2297210_640.jpg"
+author: Cuthbert P
 categories:
 - Education System
 tags:
@@ -15,16 +15,52 @@ tags:
 type: post
 
 ---
-### The standard Lorem Ipsum passage, used since the 1500s
+When it comes to homeschooling, certain standards have to be met for the process to be viewed legally and for full benefits to be seen and understood. When starting home-based education, there are both practical steps to be taken and pedagogical choices to be made and today we will be looking at those steps. In [Ontario](https://en.wikipedia.org/wiki/Ontario), certain laws and regulations have to be met which is like any other state. Some regulations may be a bit stern and others quite flexible.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+In Ontario, the following are the steps that you may need to follow in this beautiful Canadian province. These steps will help and guide you so that you know where to do it, how to do it, and will also help you understand why you are doing it. These stages and steps will guide you and will help you find ways in which you can make the whole experience produce optimal results.
 
+## Steps to Homeschooling in Ontario
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+### Step 1: Withdraw your child from school.
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+If your child is currently attending a publicly-funded school in Ontario or registered to attend such a school in Ontario, you'll need to give the school board written notification of your intent to homeschool instead. Out of courtesy and common sense, so that the school doesn't think the child is just truant, give a copy of your notice to the principal as well.
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+If your child has never attended or been registered to attend an Ontario school you do not need to send a letter of intent. If your child has been attending a private school or is registered to attend one, then the school board does not need to be notified of your switch to homeschooling, it is only the private school that you should notify in whatever way you usually communicate with them.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+### Step 2: De-school your child
+
+This is somewhat like detoxification which allows your child to spend some time to just live freely for a while, with support and empowerment from you. This will help them to detox from any negative impacts they've suffered from attending school. This is basically starting homeschooling with an unschooling approach.
+
+### Step 3: Make no mistake
+
+learning will still happen during this phase. But you don't have to make it conform to any institutional model of education, nor place any specific expectations on your child at this point. Once your child is back to their natural curiosity and interest in learning, a more deliberate kind of learning can begin.
+
+### Step 4: De-school your mind
+
+This is more of a personal goal that you have to work with. While your child is detoxing, really think about what preconceptions you might have about what education is about and what it needs to look like. Growing up we have been conditioned to think of "proper" education as being the kind we see in classrooms, but that's an institutional model, designed for the logistics and standardization of mass instruction.
+
+That is not what natural learning looks like and not what is best for any given individual child. To help de-school your mind, read up on de-schooling and unschooling, even if you plan to get more structured later on. This is a way that will help you prepare for methods to teach your child.
+
+### Step 5:Choose your teaching style
+
+The first thing to do for the actual homeschooling part of your plan is to figure out what approach you'd like to take. This may change over time, as you make responsive adjustments, but you have to start somewhere. To explore your options, see our page on teaching methods and learning philosophies and our page on learning styles.
+
+### Step 6: Choose your learning materials
+
+Then you may want some materials to go with your chosen approach. Some approaches like unschooling don't require anything deliberately educational, just your own daily living supplies and your own responsiveness. Other approaches that are more structured may rely on more conventional educational materials. See our page on the curriculum and our list of suppliers of educational materials.
+
+### Step 7: Start your program and Adjust
+
+Implement your chosen approach and curriculum according to a schedule that works well for you, your child, and the rest of the family. Once you've started homeschooling, don't forget to adjust as needed as you go along. Remain responsive to how your child responds to the teaching method, materials used, and schedule.
+
+If there is any aspect of your program that isn't working well, try something different. It's one of the main benefits of homeschooling that you can tailor everything to your own unique child and your own unique situation instead of being stuck with a rigid norm-based structure as children are in the school system. So as you start teaching and as you start your program, adjust in ways that will make the process better and easier for you and your child.
+
+### Step 8: Network and socialize
+
+To keep your child involved with peers, and for opportunities for field trips and other activities, and also for support for yourself, you may want to join a local support group. This will help you get information and ideas on how other parents are dealing with the stresses and pressures that come with homeschooling.
+
+## Final Thoughts
+
+Homeschooling is a very popular subject as of late. With parents thinking more about practically tutoring their children. Lately in this modern world academics will only pay a certain percentage in one’s success. Mentality and view towards the future are what pushes one to be successful. You will find that very few people who is actually rich ever made it far in terms of academics.
+
+With homeschooling, such lines are overlooked and your child will learn skills that will guide them in life. However, if you are doubting your capabilities in managing this style of education. It is better to enroll your child than experiment with their life. So take note of the above steps and follow through with them if you want to homeschool in Ontario.
