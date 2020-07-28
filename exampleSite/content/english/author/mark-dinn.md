@@ -1,5 +1,5 @@
 ---
-title: Cuthbert P
+title: Solomon R
 bg_image: images/backgrounds/page-title.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
@@ -13,4 +13,4 @@ social:
   link: "#"
 
 ---
-Cuthbert is a dual lingual student who has experienced education on 3 continents as a student and on 2 continents as an educator. He is passionate about facilitating learning. 
+Solomon loves reading and taking on the outdoors
