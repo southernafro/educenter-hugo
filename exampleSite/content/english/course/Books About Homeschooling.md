@@ -135,4 +135,4 @@ With the classic approach of homeschooling, the end goal is to allow and to teac
 
 ## Final Thoughts
 
-In conclusion, there is more to homeschooling than people actually notice and the above books give you a deeper insight on what you need to know to give your child the best form of education possible.
+In conclusion, there is more to homeschooling than people actually notice and the above books give you a deeper insight into what you need to know to give your child the best form of education possible.
