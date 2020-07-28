@@ -4,7 +4,6 @@ bg_image = "images/backgrounds/page-title.jpg"
 categories = []
 date = 2020-07-28T13:27:17Z
 description = "Homeschooling is no different than public school, private school, charter school, unschooling, and other models in that there are pros and cons."
-draft = true
 image = "/images/education-5169146_640.jpg"
 tags = ["Advice"]
 title = "Is Homeschooling Better"
