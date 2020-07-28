@@ -3,88 +3,59 @@ author = "Cuthbert P"
 bg_image = "images/backgrounds/page-title.jpg"
 categories = ["Minimalist"]
 date = 2020-07-28T12:27:17Z
-description = "Many people are concerned about the quality of the education they get from homeschooling over public schooling, we are here to help you make the right choice."
-draft = true
+description = "When it comes to choosing the best homeschooling method, you have to understand and know the people who are going to be affected by it."
 image = "/images/boys-286245_640.jpg"
 tags = ["Advice"]
 title = "Types of Homeschooling"
 type = "post"
 
 +++
-When it comes to education we all want what’s best for either ourselves or our kids. We are each unique and so is every child when it comes to learning, and the option that might be best for you or your child may not be the best for the next kid or the next person.
+We all know what homeschooling is. We also know that it comes with its benefits and demerits depending on the environment and the settings are provided for the one learning in such a setup. 
 
-Many people are concerned about the quality of the education they get from homeschooling over public schooling, we are here to help you make the right choice.
+While learning can come in different ways, homeschooling, in particular, has different forms of learning which are what we are going to be looking at today. While there are different ways to homeschool, the right approach will depend heavily on your goals.
 
-Homeschooling is basically schooling or learning at home. It has become quite the progressive movement in recent years as more and more parents choose homeschooling over public schooling for their children.
+When it comes to choosing the best homeschooling method, you have to understand and know the people who are going to be affected by it. In this case, you have to know the strengths and weaknesses of your child so that you pick the right method for them. That means that the “best” homeschool method is simply the one that meets your and their specific criteria. The following are the five most common methods of homeschooling.
 
-If you are here you are probably wondering if homeschooling is best for your kid or not. Well, everything has its pros and cons. We’ll look at each of the two methods and you decide for yourself which one is best.
+### Traditional Homeschooling
 
-## Homeschooling
+Traditional homeschooling is vitally doing school at home with the use of methods that are similar to those you find in public or private schools. Since most parents are familiar with this mode of education you will find that new parents in terms of homeschooling often buy textbooks and all learning material which you may find in a regular classroom. Although many families migrate away from this style as they gain more confidence in homeschooling.
 
-As stated before, homeschooling is basically learning or schooling at home. No need to rush to catch the bus. No need to worry about any school bullies. It is just regular school at home without the unnecessary fuss that comes with actually having to go to school.
+In addition, traditional homeschoolers usually utilize a lecture teaching style, have their days solidly scheduled. They make frequent use of tests and quizzes to track progress just like in regular schools. They also try to align their curriculum with what their local school follows. It is a very common approach with those who want to get homeschooling done properly and accurately and to produce the best experience for their kid.
 
-It is important to consider many factors before deciding whether your child should stay at home to learn or should be sent to a regular public school.
+### Roadschooling
 
-### Benefits
+As of late, road schooling has become a growing trend amongst those who love traveling as well as learning. Roadschooling is a growing trend in which you will find families packing up their belongings and taking their homeschooling on the road. Many people who deal with road schooling find a way to integrate what they are experiencing on the road into their kid’s life and homeschool curriculum. However, it will obviously look and feel different for every family.
 
-Homeschool is very beneficial to both the one taking it and the one sponsoring it. That is it makes life so much easier for both the kids and the parents. Generally from costs to routines, it lessens the tight hold on certain regulations that make learning a bit boring. So check out why homeschooling may be a good option.
+With this type of homeschooling, you will find that most of the homeschoolers become able to use the attractions they see as a means for educational enhancement in their studies. Besides that, it surely is a great way to study as it is not as boring as being stuck at home in your room with a textbook. This hands-on, experiential way of learning appeals to many families and accounts for the growth of road schooling nationwide.
 
-* Homeschooling offers more specialized educational attention for special needs children. Unlike most public schools that use the same teaching methods for all children.
+### Worldschooling
 
-* When it comes to homeschooling you find that children progress faster and learn faster than in a public school setting.
+When it comes to world schooling it is a test of wills. While every world schooling family is unique, some of the sentiments they share in common often include a preference for experiential learning to solidify knowledge, desire to travel, wish to introduce children to the wider world around them, need for flexibility in exploring children’s talents that traditional schooling cannot provide.
 
-* When you choose to homeschool, you won’t have to worry about tuition fees, transport, food, and stationery costs. So you may think that homeschooling is less expensive when compared to public schools. In terms of the operational costs.
+Worldschooling is an educational movement that recognizes that a student can receive no greater education than by experiencing and interacting with the world around them. It’s also important to keep in mind the myriad of ways to incorporate world culture in your child’s education. For families able to make it work, this often involves traveling together and using the journeys to enhance their kid’s education.
 
-* Homeschool can save time for both you and your kid since you won’t have to transport your kids to and from school every day. You also don’t have to worry about making them late for school and so forth.
+Still, others may only be able to take the occasional world journey but will focus heavily on subjects like geography, social studies, and world culture. Some families, for instance, might travel to a country and enroll their children in schools there with the goal of culture and language immersion.
 
-* Schooling at home may promote a closer familial relationship. You’ll find that many parents find that they enjoy spending extra time with their kids in homeschool.
+### Unschooling
 
-* Well, most people who undertake to homeschool believe that home is the safest, most secure environment in which a child can learn. At home, a child does not have to deal with peer pressure or with fitting-in with the popular cliques. A child can just “be.” This gives the child the opportunity to focus on the lessons being taught and on the educational expectations required of him or her.
+Well, unlike the name, this type of learning is completely different from what its name suggests. Unschooling is a style of home education that allows the student’s interests and curiosities to drive the path of learning. Unlike having the teachers or the parents set out a curriculum for them.
 
-### Demerits
+With this type of homeschooling, the ball is in the learner’s hands. They trust the children to gain knowledge in an organic fashion. Unschooling is an active learning process and not the passive, unstructured method that its terminology would suggest. Unschoolers are homeschoolers who are focused more on the experimental process of learning and becoming educated than with doing school.
 
-Like everything on this earth. It has an upside and a downside. Homeschooling, though it makes things easier for the parties involved in it. You may find that certain life skills and structures will be lacking because of homeschooling. Check the demerits below.
+This type mostly involves nurturing a child’s natural curiosity, without placing artificial time constraints on them such as the introduction of certain subjects at certain ages, or without structuring their day in the same way a classroom setting might.
 
-* When you choose to educate your child at home, you have to put your career goals or ambitions aside and shift your focus to teaching the child. Unless of course, you hire someone to do it for you.
+### Classic Homeschooling
 
-* Public Schooling education will expose your child, although minimally, to a variety of topics. In homeschooling, parents can choose to limit or even eliminate the subject from their curriculum, leaving the child with no knowledge of it. Also, it is not possible for a parent to teach complex topics in subjects such as math, physics, chemistry, or calculus unless they are experts. This limits the amount of information that a child gets through homeschooling.
+With the classic approach of homeschooling, the end goal is to allow and to teach kids to think for themselves and not rely on anyone else. Using the trivium model, children move through three main stages of learning: concrete learning which is the grammar stage, then they go on to critical learning which is the logic stage, and abstract learning the rhetoric stage. It’s a language-focused, literature-focused style of learning that has been adopted by so many homeschooling families till today.
 
-* Public schools are more structured and have a better-planned curriculum than home-schools. The school’s system has tried and tested teaching methodologies, credible sources of information, and standardized assessments. They even select some of the best teachers to give your child the best education. Something which some parents may fail to do.
+#### Stages of Classic Homeschooling
 
-* When a child is educated at home, he has little interaction with other kids of his age. Even if he does, he does not get to experience the same things as school-going children. They do not get to experience school or class trips and projects or lunch with friends.
+**The Grammar Stage** - For homeschoolers, this boils down to making sure a student has core knowledge of math, language arts, science, and social studies. Because children in the early elementary years most often think in concrete terms, the focus of learning in these years is on memorization and repetition. Just as grammar is the foundation for language learning, the grammar stage of the trivium involves the years where children are building foundational knowledge in many educational arenas.
 
-## Public Schooling
+**The Logic Stage** – Also known as the dialectic stage is whereby a student has reached fifth grade, concrete thinking gives way to more analytical reasoning. At this level, students want to know more and ask questions. They want to be able to compare different values and understand a deeper volume. The word most apt for this stage is, “why?” Homeschooling a child during the dialectic stage involves introducing them to logic asking questions that help them arrive at valid conclusions.
 
-Well now that you know about homeschooling. Let’s look at public schooling. Well depending on where you are, these are mostly schools that are run and controlled as well as structured by the government. Each child is an individual with individual needs. The environment offered by the school is the determining factor as to whether a child will enjoy it there or not.
+**The Rhetoric Stage** – Classically homeschooled high schoolers will focus heavily on the medium of communication. They will learn about essay writing, public speaking, accounting, engineering, politics, and economics. The student combines their foundational knowledge from elementary school with the critical thinking skills they learn in middle school to be able to articulate their reasoned opinions and conclusions via debates and persuasive writing.
 
-### Benefits
+## Final thoughts
 
-* Public schools have a built-in structure. We all know that young children thrive on routine and they require a lot of attention and care. If you are trying to homeschool your children while also being a stay-at-home parent, you may find it more challenging than you imagine.
-
-* Many public schools offer sports and elective options like art and music. Not all kids are sporty and not all kids are artsy. So you’ll find that in public schools your kid has the option to choose what they like without restrictions.
-
-* A public school teaches children a certain degree of independence. Depending on the grade, children need to keep track of their own class schedules, find their way from one class to another, purchase their own lunch, and make it to and from the bus every day.
-
-* Children who attend public schools have more opportunities for social interaction than many homeschool students. There are homeschool co-ops that can be helpful, but a public school has built-in social benefits.
-
-* Public school gives you and your child some much-needed time apart which helps to foster your child’s independence and gives you a break as well. There is no harm in needing a break from your kids once in a while.
-
-### Demerits
-
-Apart from offering you a helping hand in raising your kid. Public schools also have risks. Your child may not be well suited for public learning and here is why.
-
-* Public schools have a more rigorous and regimented schedule than most homeschool programs and students may not have the same degree of freedom and flexibility to customize their education.
-
-* With public schooling, your kid is exposed to a lot of peer pressure and identity crisis. What they may think is cool. May actually not be the best choice of character for their lives.
-
-* Bullies and social behaviors may force your child to have a very unstable social setting. They may end up being very antisocial or may not be as open to you as they were before.
-
-* Anything can happen at a public school. From kidnapping, abuse, shoot outs. Mixing different children from different backgrounds may result in a lot of confusion to your kid which you may not find very settling.
-
-## Final Thoughts
-
-Public schools come with everything. Some have libraries, sports centres, transport facilities, and the security that you may feel your child needs. They also have rules and regulations that your child may have to follow and failure to do so may result in disciplinary action.
-
-Proponents of homeschooling believe that children thrive better in a safe, comfortable environment with which they are familiar. It makes it easier for them to understand everything without worrying about the bully waiting to steal their lunch.
-
-So let's look at the benefits and the demerits that come with homeschooling. The choice is yours, as you know what is best for yourself and for your kid
+Choosing the best method for your child’s homeschooling is not as hard as you may think. Focus on the end goals and what you want your child to achieve at the end. That way things are so much easier for you.
