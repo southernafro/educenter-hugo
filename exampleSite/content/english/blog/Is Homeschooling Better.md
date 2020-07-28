@@ -1,9 +1,9 @@
 +++
 author = "Cuthbert P"
 bg_image = "images/backgrounds/page-title.jpg"
-categories = ["Minimalist"]
-date = 2019-07-06T09:27:17Z
-description = "Minimalist homeschooling is about focusing on the educational values you want to see in your children, and yourself. Not in the facts and accomplishments, or whatever your homeschooling friends are doing. "
+categories = []
+date = 2020-07-28T13:27:17Z
+description = "Homeschooling is no different than public school, private school, charter school, unschooling, and other models in that there are pros and cons."
 draft = true
 image = "/images/education-5169146_640.jpg"
 tags = ["Advice"]
@@ -11,78 +11,73 @@ title = "Is Homeschooling Better"
 type = "post"
 
 +++
-Minimalist homeschooling is about focusing on the educational values you want to see in your children, and yourself. Not in the facts and accomplishments, or whatever your homeschooling friends are doing. 
+Every educational system offers great opportunities for children to learn new information and skills, as well as harness their own unique qualities and interests. Homeschooling is no different than public school, private school, charter school, unschooling, and other models in that there are pros and cons.
 
-Relaxed or minimalist homeschooling is an approach where, like the same movement in life to remove the extras and keep the things that matter, learning is cut down to the important things only with lots of space and free time for additional learning.
+You are probably wondering if homeschooling is better for your child or yourself right? Well, today we are looking at if homeschooling is better or not. We will be looking at what homeschooling is exactly and how it will benefit your child. Types of homeschooling as well and the downside of homeschooling.
 
-Additionally, relaxed homeschooling families are often very intentional about keeping their lessons short. After all, spending 5 or 6 hours a day on schoolwork wouldn’t be very relaxing now, would it? 
+## What is homeschooling?
 
-Minimalist or Relaxed homeschooling will look different from house to house, but the majority of relaxed homeschoolers tend to focus their structured learning time around the 3 Rs- reading, writing, and arithmetic. Other resources used may include:
+Homeschooling means learning outside of the public or private school environment. The word "home" is not really accurate, and neither is "school." For most families, their "schooling" involves being out and about each day, learning from the rich resources available in their community, environment, and interactions with other families who homeschool.
 
-* unit studies
-* living books
-* notebooking
-* hands-on activities
+Essentially, homeschooling involves a commitment by a parent or guardian to oversee their child or teen's educational development. As you probably know, when you decide to homeschool, you will take on the duties and responsibilities of both a teacher and administrator. These responsibilities get added to your normal role as a parent. You also have the added financial costs of homeschooling.
 
-## Pros and Cons
+You will need to implement lessons, organize field trips, coordinate activities with other parents, and make sure you are compliant with state and local homeschool requirements. While there are many free resources available, homeschool supplies such as textbooks, books, paper, art supplies, computers, software, and other homeschool tools cost money.
 
-Minimalist homeschooling is quite common, we just don’t know it that’s all. It’s kind of a cross-breed of unschooling with formal learning although the approach to the basic subjects may be done from any other form of methodology as the family desires. In many homeschooling methods, there is a sense that learning needs to include a wide and demanding set of lessons, subjects, and activities.
+## Types of Homeschooling
 
-In minimalist homeschooling, the idea is to cut out all these extras activities and focus primarily on the things they deem important. When a person embraces any minimalist mindset, it’s extremely personal. The same is true when you approach homeschooling this way. 
+### Traditional Homeschooling
 
-Each family may choose different things to learn that are important to them in general or at a specific time. Anyway like any other type of homeschooling, it comes with its advantages and disadvantages.
+Traditional homeschooling is vitally doing school at home with the use of methods that are similar to those you find in public or private schools. Since most parents are familiar with this mode of education you will find that new parents in terms of homeschooling often buy textbooks and all learning material which you may find in a regular classroom. Although many families migrate away from this style as they gain more confidence in homeschooling.
 
-### Pros
+### Roadschooling
 
-* It’s very personalized to the needs of the children being taught.
-* It’s relaxed and a lot less stressful than some other homeschool methods
-* It works well with a large family
-* It allows for a lot of free time
+With this type of homeschooling, you will find that most of the homeschoolers become able to use the attractions they see as a means for educational enhancement in their studies. Besides that, it surely is a great way to study as it is not as boring as being stuck at home in your room with a textbook. This hands-on, experiential way of learning appeals to many families and accounts for the growth of road schooling nationwide.
 
-### Cons
+### Worldschooling
 
-* Since it focuses on only what the family deems important, subject gaps may exist
-* It can take a while to settle into a rhythm that works for your family
-* It can often involve a lot of group learning, which might not work with your family dynamics
-* It involves a mindset change to allow that less is more.
-
-## Facts about homeschoolers
-
-1. Most homeschool families are not locked up in their homes all day.
-2. Not all homeschoolers have large families.
-3. Homeschool kids are very social.
-4. Homeschool kids are very smart. Most homeschool children test way above the public school standards.
-
-## Other types of Homeschooling
-
-### Online (or Virtual) Public School
-
-These students are not homeschoolers in the legal sense because they are enrolled in a public school. I’m including it here because a growing number of families in the homeschool community are actually part of the virtual public school system. They want the freedom of having their kids at home, but want or need the oversight and accreditation provided by a state-run school.
-
-Instruction takes place in the home, either through computer lessons or via textbooks, typically a combination of both. Lessons may be completed online and somewhat self-paced or taught by a teacher through Skype or a similar method.
-
-### Unit Studies
-
-A unit study incorporates multiple subjects using one theme. The theme can be a historical event, a holiday, a location, a person, or pretty much anything. The students learn about the theme using different resources and hands-on activities. 
-
-Unit studies are popular with Delight-Directed Learning (also called Interest-Led Learning), where students look at many subjects within the context of a specific topic.
-
-### Classical
-
-Classical education is based on a three-part process: Grammar, Logic, and Rhetoric. In the Grammar stage, you lay the groundwork; learning how to learn. The Logic stage begins around fifth grade and focuses on reasoning and analytical thinking.
-
-High school students move into the Rhetoric stage, which applies the rules of logic to the foundation of skills learned at the younger ages. Classical education is language-based, rather than hands-on or video-based like many of the other homeschooling styles.
-
-It involves teaching based on the three stages of learning: the Grammar stage, the Logic stage, and the Rhetoric stage. The Grammar stage involves learning facts, memorization, and knowledge gathering. The Logic stage is when reasoning and logic begin to be applied to knowledge. The Rhetoric stage completes the Trivium and is when the student learns the skills of wisdom and judgment.
+When it comes to world schooling it is a test of wills. While every world schooling family is unique, some of the sentiments they share in common often include a preference for experiential learning to solidify knowledge, desire to travel, wish to introduce children to the wider world around them, need for flexibility in exploring children’s talents that traditional schooling cannot provide. Worldschooling is an educational movement that recognizes that a student can receive no greater education than by experiencing and interacting with the world around them.
 
 ### Unschooling
 
-Unschooling operates on the premise that we are naturally curious, and children don’t have to be forced to learn. We learn all day, every day, and if we allow ourselves to follow our interests, there is a never-ending web of knowledge out there just waiting for us. And “us” includes your kids.
+Well, unlike the name, this type of learning is completely different from what its name suggests. Unschooling is a style of home education that allows the student’s interests and curiosities to drive the path of learning. Unlike having the teachers or the parents set out a curriculum for them. With this type of homeschooling, the ball is in the learner’s hands. They trust the children to gain knowledge in an organic fashion.
 
-Unschooled kids may spend hours playing video games, and they may just as likely spend hours reading or building something or playing outside. Unschooling does not mean that parents can never teach anything to their children, or that children should learn about life entirely on their own without the help and guidance of their parents.
+### Classic Homeschooling
 
-Unschool­ing does not mean that parents give up active participation in the education and development of their children and simply hope that something good will happen. A large component of unschooling is ground­ed in doing real things, not because we hope they will be good for us, but because they are intrinsi­cally fascinating. There is an energy that comes from this that you can't buy with a curriculum.
+With the classic approach of homeschooling, the end goal is to allow and to teach kids to think for themselves and not rely on anyone else. Using the trivium model, children move through three main stages of learning: concrete learning which is the grammar stage, then they go on to critical learning which is the logic stage, and abstract learning the rhetoric stage. It’s a language-focused, literature-focused style of learning that has been adopted by so many homeschooling families till today.
+
+## Pros and Cons of Homeschooling
+
+### Pros
+
+* Determine the curriculum and their children's schooling schedule
+* Demonstrate to their children that education is fun
+* Create strong bonds with their children
+* Adapt teaching methods best suiting how their children learn
+* Spend extra time with their children on difficult concepts and move ahead after children master a subject or concept
+* Create a flexible schedule not possible for children enrolled in public school
+* Provide religious and ethical instruction for their children
+* Shelter children from school violence, drugs, and other negative behaviors children in public schools frequently encounter
+* Provide their children with the personal interaction that teachers in large classrooms are not able to provide
+* Spend extra time helping their children develop any special talents they possess, including musical, athletic, etc
+* Discuss controversial topics at their discretion with their children
+* Enjoy spending more time with their children
+* Assist their children during adolescence and other trying times
+* Draw closer to their spouse as they homeschool their children together
+* Take their children on vacations when public school is still in session
+
+### Cons
+
+* Be around their children all day long. This can be difficult when children become restless and misbehave
+* Frequently explain their reasons for homeschooling their children to friends and relatives unsympathetic or confused about their decision
+* Restrain anger and remain patient when children struggle with learning
+* Effectively handle the difficulties of moving at a slower pace than public school instruction
+* Spend large amounts of money on books and other learning materials
+* Constantly adapt to be effective teachers
+* Constantly motivate their children
+* Speak with other people homeschooling their children to get ideas about solving difficult problems if they're unsure about the best course of action
+* Spend time reviewing numerous curriculum programs up to their standards and best suiting their children's learning needs
+* Spend more time finding playmates and friends for their children in similar circumstances
 
 ## Final Thoughts
 
-Though contradictory to its name, relaxed homeschooling or should we term it minimalist homeschooling is not as relaxed as it appears to be. If you want to take on this type of homeschooling, you have to be prepared and ready to take on a lot of responsibility and to monitor your child's actions. It is a good teaching method for kids as they concentrate on things that actually matter and can be used in life. They just have to concentrate on specific things in their academic journey.
+Everything has its ups and downs, just like homeschooling here. If you are ready to take on the responsibility and the costs that come with homeschooling then nothing stops you from doing it. However, having valid reasons is always the best determinant as to whether homeschooling is better or not.
