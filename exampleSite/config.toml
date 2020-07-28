@@ -12,7 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-weight = 2
 [[menu.footer]]
 URL = "teacher"
 name = "teacher"
