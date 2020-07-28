@@ -12,7 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-copyright = "Copyright &copy; 2020  [themefisher](https://themefisher.com)"
 weight = 2
 [[menu.footer]]
 URL = "teacher"
