@@ -2,7 +2,7 @@
 author = ""
 bg_image = ""
 categories = []
-date = ""
+date = 2020-10-21T23:00:00Z
 description = ""
 draft = true
 image = ""
