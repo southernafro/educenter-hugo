@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-11-06T00:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Homeschool Workbooks Australia"
