@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-07T23:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Pre K homeschooling"
