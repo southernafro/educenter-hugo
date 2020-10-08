@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-29T00:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Best Grammar Curriculum Homeschool"
@@ -17,7 +16,7 @@ Grammar is the proper use of language, and it is a life skill that should be ins
 
 ## Examples of curriculum for homeschool grammar.
 
-## The Well-Trained Mind: A Guide to Classical Education at Home
+### The Well-Trained Mind: A Guide to Classical Education at Home
 
 This program is aimed at helping elementary school children get a grasp of better language skills. The core subjects of the well-trained mind are Science, Mathematics, Language Arts, and History. Under language arts, your child will learn grammar, reading, writing, and spelling.
 
@@ -27,7 +26,7 @@ As part of the program, students are also encouraged to write to other people. T
 
 [https://welltrainedmind.com/?v=31645929703e](https://welltrainedmind.com/?v=31645929703e "https://welltrainedmind.com/?v=31645929703e")
 
-## Grammar ace
+### Grammar ace
 
 This program is designed for children between grades 4 and 8. The great thing about this program is that you can move along at your pace. Sometimes the excess pressure on the child makes it difficult for them to grasp concepts fast. With grammar ace, there is no set time as to when you need to have reached certain targets. The program comes with an instruction manual that will outline how to use it.
 
@@ -37,7 +36,7 @@ This program is suitable for either group classes or one on one tutorials. It is
 
 [https://www.sonlight.com/RL66.html](https://www.sonlight.com/RL66.html "https://www.sonlight.com/RL66.html")
 
-## Fix it grammar series
+### Fix it grammar series
 
 This grammar program is perfect for children between grades 3 and 12. Whether you are teaching one child or it’s a group session, this program will work well. This program is a series of books that allow students to read through passages of text that have an everyday context, and pick out grammatical errors.
 
@@ -47,7 +46,7 @@ Fix it grammar has six courses and these are the Nose Tree (Book 1), Robin Hood 
 
 [https://www.amazon.com/Fix-Grammar-Nose-Teachers-Manual/dp/1623411718](https://www.amazon.com/Fix-Grammar-Nose-Teachers-Manual/dp/1623411718 "https://www.amazon.com/Fix-Grammar-Nose-Teachers-Manual/dp/1623411718")
 
-## Grammar galaxy
+### Grammar galaxy
 
 Grammar Galaxy is a holistic program that both you and your child will enjoy using. It doesn’t require a lot of time. It is a fast and easy program to master and you will not need to be an experienced educator to use it to homeschool your child. There is no preparation work required. The lessons are short and to the point.
 
@@ -55,7 +54,7 @@ It is a fun program to use and your child will not get bored easily by the gramm
 
 [https://grammargalaxybooks.com/](https://grammargalaxybooks.com/ "https://grammargalaxybooks.com/")
 
-## Cozy grammar
+### Cozy grammar
 
 This program will help your child read and write well. Cozy grammar has various courses that you can use for homeschooling and perfecting your child skills. The grammar course has a total of 27 lessons in it. Of these lessons, you will find a streaming video and an introduction to the topics. The presentations are appealing and help keep your child entertained and wanting to learn more.
 
