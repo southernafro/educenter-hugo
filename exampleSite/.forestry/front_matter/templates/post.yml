@@ -33,6 +33,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/english/blog/best-grammar-curriculum-homeschool.md
 - exampleSite/content/english/blog/homeschooling-australia.md
 - exampleSite/content/english/blog/how-many-hours-a-day-to-homeschool.md
 - exampleSite/content/english/blog/pre-k-homeschooling.md
