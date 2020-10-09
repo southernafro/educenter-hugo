@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-13T23:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "I want to homeschool but my husband doesn’t"
