@@ -2,9 +2,8 @@
 author = ""
 bg_image = ""
 categories = []
-date = ""
+date = 2020-10-11T23:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "What is Reggio Inspired Homeschool"
