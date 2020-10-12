@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-14T23:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Homeschool Burnout Causes and Coping Strategies"
@@ -13,13 +12,15 @@ type = "post"
 +++
 Are you looking at the good, the bad and the ugly about homeschooling? It's an educational philosophy that may differ from the usual, but more and more people across the globe are taking a keen interest in it. There are many benefits to homeschooling, but there are some downsides as well, and to make an informed decision it helps to know what you are up against and how to handle it.
 
+![](/images/woman-1733891_640.jpg)
+
 In this article, we take a look at homeschool burnout causes and coping strategies. How do parents and children deal with the hurdles you may face when you decide to homeschool? We will take a look at what causes burnout, how you can avoid it, and also how to deal with it. Let's take a look, shall we?
 
 ## What is homeschool burnout?
 
-Looking after children throughout the day can be a tiresome job. It can be taxing on you physically and mentally. Add homeschooling to this, and you are now their teacher in addition to being their caregiver. This in itself, comes with the risk of burnout and fatigue. Homeschool burnout happens when you expend a lot of energy, that you don’t have to spare.
+Looking after children throughout the day can be a tiresome job. It can be taxing on you physically and mentally. Add homeschooling to this, and you are now their teacher as well as being their caregiver. This in itself, comes with the risk of burnout and fatigue. Homeschool burnout happens when spending a lot of energy, that you don’t have to spare.
 
-Burnout is exhaustion, both in the mind and in the body. Simply put, you just don’t want to do it anymore and the fulfilment you got from it before isn’t there anymore.
+Burnout is exhaustion, both in the mind and in the body. You don’t want to do it anymore and the fulfilment you got from it before isn’t there anymore.
 
 ## How do I know I'm experiencing burnout?
 
