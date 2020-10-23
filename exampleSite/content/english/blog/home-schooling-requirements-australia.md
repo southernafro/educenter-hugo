@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-30T00:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Home Schooling Requirements Australia"
