@@ -76,7 +76,7 @@ Homeschooled children do not interact with other children daily. As such, this m
 * Public schools have more qualified teachers teaching your child, whereas, in homeschooling, you are probably the only teacher that your child has.
 * Public school has more facilities than you would probably have in your home.
 * Homeschooling can focus more on what the child is more interested in and what they can be stronger in
-* Homeschooling can keep your child out of harm's way if they are being bullied
+* Homeschooling can keep your child out of harm's way if they are being bullied.
 * Public schooled children may also be more docile, due to being part of a number, whereas homeschooled children know that they have the full attention of their teacher or parent. This also gives them the confidence to explore more.
 * Homeschooling also gives both the student and parent, control over the pace at which lessons are conducted, meaning there is less chance of being left behind in studies, as may be the case with public schooling.
 
