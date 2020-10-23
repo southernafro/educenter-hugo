@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-11-02T00:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "How long does homeschooling take to graduate"
