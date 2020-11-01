@@ -2,7 +2,7 @@
 author = "Cuthbert P"
 bg_image = "images/backgrounds/page-title.jpg"
 categories = []
-date = 2020-07-28T13:27:17Z
+date = "2020-07-28T13:27:17.000+00:00"
 description = "Homeschooling is no different than public school, private school, charter school, unschooling, and other models in that there are pros and cons."
 image = "/images/education-5169146_640.jpg"
 tags = ["Advice"]
