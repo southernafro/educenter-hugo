@@ -78,7 +78,7 @@ cta:
     label: join now
     link: contact
 success_story:
-  enable: true
+  enable: false
   bg_image: images/backgrounds/success-story.jpg
   title: Success Stories
   content: |-
