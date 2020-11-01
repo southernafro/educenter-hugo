@@ -34,8 +34,11 @@ banner_feature:
       school students (Ray, 2015).
   - name: Our Notice Board
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: “when 732 homeschoolers were compared to the full sample of traditional
+      students, without controlling for any demographics, homeschooled students had,
+      on average, a higher high school GPA, a higher SAT score, and a higher first-year
+      of college GPA. However, they also had a higher socioeconomic status." - Robert
+      Lyon
   - name: Our Achievements
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
