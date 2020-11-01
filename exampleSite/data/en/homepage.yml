@@ -25,10 +25,13 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: Scholarship News
+  - name: Better Outcomes
     icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: The home-educated typically score 15 to 30 percentile points above public-school
+      students on standardized academic achievement tests. (The public school average
+      is the 50th percentile; scores range from 1 to 99.) A 2015 study found Black
+      homeschool students to be scoring 23 to 42 percentile points above Black public
+      school students (Ray, 2015).
   - name: Our Notice Board
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
