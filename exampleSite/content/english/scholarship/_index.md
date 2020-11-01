@@ -1,16 +1,20 @@
 ---
-title: Why Homeshool
+title: Scholarship
 bg_image: images/backgrounds/page-title.jpg
 image: images/about/about-page.jpg
-description: We look at some of the reasons for homeschooling
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud.
+draft: true
 
 ---
-## REASONS FOR HOMESCHOOLING
+## SCHOLARSHIPS NEWS
 
-**_Why parents and children choose to homeschool_**
+**_Our campuses are living laboratories for sustainability._**
 
-It provides the opportunity to tailor education to the individual needs of the child. This enables them to perform at their best.
-
-Studies have shown that homeschooling enhances relationships between parent/child/siblings.
-
-It gives the parents the chances to impart their values without too much external influence.
+Lorem ipsum dolor sit amet, consectetur adipi sicing elit, sed do eiusmod tempor incididunt ut labore
+et.dolore magna aliquauis aute irure dolor.
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor, sit
+amet consectetur adipisicing elit. Quas cum ut ab nesciunt distinctio maxime expedita fugit laborum? Aliquid,
+quia.
