@@ -12,15 +12,8 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[[menu.footer]]
-URL = "notice"
-name = "notice"
-[[menu.footer]]
-URL = "event"
-name = "event"
-[[menu.footer]]
-URL = "scholarship"
-name = "scholarship"
+[menu]
+footer = []
 [[menu.main]]
 URL = "about"
 name = "About"
