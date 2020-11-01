@@ -67,7 +67,7 @@ about:
     label: Learn more
     link: about
 course:
-  enable: true
+  enable: false
   title: Our Resources
 cta:
   enable: true
