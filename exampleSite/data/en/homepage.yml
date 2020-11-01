@@ -41,10 +41,9 @@ banner_feature:
       Lyon
   - name: Flexible Learning
     icon: ti-agenda
-    content: "In short, homeschooling has offered flexible learning for children who
-      might face difficulties in traditional schooling. Issues such as racism, special
-      needs in learning, and incompetency of traditional learning were able to\nbe
-      resolved through homeschooling implementation. "
+    content: |-
+      In short, homeschooling has offered flexible learning for children who might face difficulties in traditional schooling. Issues such as racism, special needs in learning, and incompetency of traditional learning were able to
+      be resolved through homeschooling implementation. -DeWitt, Alias & Jamaludin
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
