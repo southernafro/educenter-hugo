@@ -44,10 +44,13 @@ banner_feature:
     content: |-
       In short, homeschooling has offered flexible learning for children who might face difficulties in traditional schooling. Issues such as racism, special needs in learning, and incompetency of traditional learning were able to
       be resolved through homeschooling implementation. -DeWitt, Alias & Jamaludin
-  - name: Admission Now
+  - name: Personal Development
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: Research facts on homeschooling show that the home-educated are doing
+      well, typically above average, on measures of social, emotional, and psychological
+      development. Research measures include peer interaction, self-concept, leadership
+      skills, family cohesion, participation in community service, and self-esteem.
+      -Nheri
 about:
   enable: true
   title: About HomeSchoolers Hub
