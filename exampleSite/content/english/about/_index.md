@@ -1,23 +1,14 @@
 ---
-title: "About Us"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# about image
-image: "images/about/about-page.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+title: About Us
+bg_image: images/backgrounds/page-title.jpg
+image: images/about/about-page.jpg
+description: Why we do what we do
+
 ---
+## ABOUT OUR JOURNEY
 
-## ABOUT OUR JOURNY
+Homeschoolers Hub was started in preparation for our children. We wanted to create a hub of resources for them and for parents like us to refer to. My fiance was homeschooled and loved it. I, on the other hand, went through the conventional private schooling system. I too enjoyed that. When deciding which approach we would take for our children, it was not an easy decision. Our outcomes are fairly similar. That is why we decided to dig into the research data to see what it says. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+Fortunately, we have a lot of friends who are educators. Both of us have also served on various boards and groups within education. We have also been involved in the local homeschooling community for a while now. It has provided us with tremendous insight into the personal choices and drivers of said choices for various parents. 
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Welcome to our journey!
