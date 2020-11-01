@@ -39,10 +39,12 @@ banner_feature:
       on average, a higher high school GPA, a higher SAT score, and a higher first-year
       of college GPA. However, they also had a higher socioeconomic status." - Robert
       Lyon
-  - name: Our Achievements
+  - name: Flexible Learning
     icon: ti-agenda
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+    content: "In short, homeschooling has offered flexible learning for children who
+      might face difficulties in traditional schooling. Issues such as racism, special
+      needs in learning, and incompetency of traditional learning were able to\nbe
+      resolved through homeschooling implementation. "
   - name: Admission Now
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
