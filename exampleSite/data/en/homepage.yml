@@ -9,8 +9,8 @@ slider:
     animation_in: left
     animation_out: right
     button:
-      enable: true
-      label: Apply now
+      enable: false
+      label: ''
       link: contact
   - title: Here's to an exciting home schooling journey
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
