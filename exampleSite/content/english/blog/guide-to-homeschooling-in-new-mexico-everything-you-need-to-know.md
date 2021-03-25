@@ -2,8 +2,8 @@
 author = ""
 bg_image = ""
 categories = []
-date = ""
-description = ""
+date = 2021-03-25T00:00:00Z
+description = "If you want to know about New Mexico homeschool law, this guide is for you. It explains the process from regulation to registration, and provides a complete breakdown of expenses and requirements. You will learn about the many programs and curricula available in New Mexico; choose from public school-like instruction to a self-led environment with more flexibility around scheduling."
 draft = true
 image = ""
 tags = []
@@ -35,11 +35,11 @@ The great thing about homeschooling in New Mexico is that you can choose any cur
 
 There are no books required for homeschooling in New Mexico. However, you will need something on which to write down the lesson plan. Many homeschoolers purchase blank notebooks and pens, then write down their lessons on them. You can also use handouts, which are great for writing down a lesson plan or reminding yourself of a certain activity.
 
-There are no required textbooks for homeschooling in New Mexico. However, there is something called a curriculum guide that your local school district may have. You should look through the guide and see if it has anything useful for your homeschooling needs and find out about the regulations concerning homeschooling in New Mexico. 
+There are no required textbooks for homeschooling in New Mexico. However, there is something called a curriculum guide that your local school district may have. You should look through the guide and see if it has anything useful for your homeschooling needs and find out about the regulations concerning homeschooling in New Mexico.
 
 ## How to homeschool in New Mexico
 
-Homeschooling in New Mexico can be an enriching experience. You will help your child to learn and experience the many benefits of learning at school in a formal setting. You may find that you enjoy teaching your children the subjects you are interested in rather than being obligated to teach them subjects you do not enjoy. 
+Homeschooling in New Mexico can be an enriching experience. You will help your child to learn and experience the many benefits of learning at school in a formal setting. You may find that you enjoy teaching your children the subjects you are interested in rather than being obligated to teach them subjects you do not enjoy.
 
 In addition to your experience, you will also need to purchase the correct books and workbooks for your child. You will find that there are many options available for homeschooling in New Mexico. It is easy to find ebooks and other materials online that can help you teach your children. As a bonus, homeschooling in New Mexico can save you a couple of hundred dollars a year on tuition since most students do not attend school during the summer months.
 
@@ -62,5 +62,3 @@ http://www.portalesnewsherald. com/homeschooling/article/Homeschool-laws-allow-f
 [http://www.mcclurelawgroup.com/homeschool-options-in-new-mexico/](http://www.legis.state.nm.us/ "http://www.legis.state.nm.us/")
 
 [http://www.nbcsandiego.com/news/local/Homeschooling-Group-Finds-New-Home-20130802,0,2747263.story?page=2](http://www.legis.state.nm.us/ "http://www.legis.state.nm.us/")
-
-http://digitalhomeclasses..
