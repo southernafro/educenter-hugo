@@ -40,11 +40,11 @@ The California Department of Education administers the K-12 school program and o
 
 [http://www.cde.ca.gov/ta/ac/ss/cistat.pdf](http://www.cde.ca.gov/ta/ac/ss/cistat.pdf "http://www.cde.ca.gov/ta/ac/ss/cistat.pdf")
 
- [http://www.cde.ca.gov/ta/ac/ss/privateschools.pdf](http://www.cde.ca.gov/ta/ac/ss/privateschools.pdf "http://www.cde.ca.gov/ta/ac/ss/privateschools.pdf")
+[http://www.cde.ca.gov/ta/ac/ss/privateschools.pdf](http://www.cde.ca.gov/ta/ac/ss/privateschools.pdf "http://www.cde.ca.gov/ta/ac/ss/privateschools.pdf")
 
 [http://www.cde.ca.gov/ta/ac/ss/acmechomgr2.pdf](http://www.cde.ca.gov/ta/ac/ss/acmechomgr2.pdf "http://www.cde.ca.gov/ta/ac/ss/acmechomgr2.pdf")
 
-[http://www.doe.ca](http://www.doe.ca "http://www.doe.ca") .gov/docs/reportcard/2007-08.pdf
+[http://www.doe.ca](http://www.doe.ca "http://www.doe.ca").gov/docs/reportcard/2007-08.pdf
 
 [http://www.doe.ca.gov/docs/policies/policy_43773_cw36_140805a.pdf](http://www.doe.ca.gov/docs/policies/policy_43773_cw36_140805a.pdf "http://www.doe.ca.gov/docs/policies/policy_43773_cw36_140805a.pdf")
 
