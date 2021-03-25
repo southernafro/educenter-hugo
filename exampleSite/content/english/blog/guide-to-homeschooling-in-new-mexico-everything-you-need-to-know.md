@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2021-03-25T00:00:00Z
 description = "If you want to know about New Mexico homeschool law, this guide is for you. It explains the process from regulation to registration, and provides a complete breakdown of expenses and requirements. You will learn about the many programs and curricula available in New Mexico; choose from public school-like instruction to a self-led environment with more flexibility around scheduling."
-draft = true
 image = ""
 tags = []
 title = "Guide To Homeschooling in New Mexico | Everything You Need To Know"
