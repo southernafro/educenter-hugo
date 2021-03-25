@@ -93,3 +93,8 @@ title = "github"
 icon = "ti-linkedin"
 link = "#"
 title = "linkedin"
+
+sitemap:
+  changefreq: "weekly"
+  priority: 0.5
+  filename: "sitemap.xml"
